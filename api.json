@@ -1,0 +1,20 @@
+[
+    {
+        "ad": "Ismayil",
+        "soyAd": "Eliyev",
+        "yas": 16,
+        "sagird": true
+    },
+    {
+        "ad": "Leyla",
+        "soyAd": "Eliyeva",
+        "yas": 25,
+        "sagird": false
+    },
+    {
+        "ad": "Sadiq",
+        "soyAd": "Eliyev",
+        "yas": 10,
+        "sagird": true
+    }
+]
